@@ -32,7 +32,7 @@ Library for work with GSON
 	//создаём пустое хранилище объектов
 	ObjectsContainer oc = new ObjectsContainer();
 	//загружаем в хранилище данные из файла
-	oc.loadFromFile(new File("MyShapes.b8219a"));
+	oc.loadFromFile(new File("MyShapes.myvector"));
 	
 	//создаём строку для логирования ошибок
 	StringBuilder log = new StringBuilder();
