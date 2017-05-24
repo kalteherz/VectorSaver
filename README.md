@@ -25,7 +25,7 @@ Library for work with GSON
 	}
 	
 	//сохраняем хранилище объектов в файл
-	oc.saveToFile("MyShapes.B8219a");
+	oc.saveToFile("MyShapes.myvector");
 
 ЗАГРУЗКА
 
