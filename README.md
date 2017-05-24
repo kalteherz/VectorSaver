@@ -1,5 +1,5 @@
 # VectorSaver
-Library for work with GSON
+Library for saving objects to JSON (using GSON).
 
 Пример работы с библиотекой для сохранения и загрузки массива объектов — фигур из векторного редактора
 
